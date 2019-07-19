@@ -8,6 +8,10 @@ Animations for explaining DNN layers
 
 ![convolution](gif/convolution.gif)
 
+## RNN
+
+![recurrence](gif/rnn.gif)
+
 ### Self Attention
 
 ![self attention](gif/self_attention.gif)
