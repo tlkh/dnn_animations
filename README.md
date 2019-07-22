@@ -12,9 +12,13 @@ Animations for explaining DNN layers
 
 ![recurrence](gif/rnn.gif)
 
-### Self Attention
+### Self-Attention
 
 ![self attention](gif/self_attention.gif)
+
+### Multi-Head Self-Attention
+
+![self attention](gif/mha.gif)
 
 ## Contributing
 
