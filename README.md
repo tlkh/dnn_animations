@@ -8,7 +8,7 @@ Animations for explaining DNN layers
 
 ![convolution](gif/convolution.gif)
 
-## RNN
+### RNN
 
 ![recurrence](gif/rnn.gif)
 
